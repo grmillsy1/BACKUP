@@ -4,24 +4,40 @@
     height: 100vh;
     position: relative;
   }
-
+  .div1{
+    width: 49%;
+    float: left;
+  }
+  .div2{
+    width: 49%;
+    float: right;
+    position: relative;
+  }
   img#profile-pic{
     z-index: 5;
-    width: 31%;
+    /*width: 31%;*/
+    width: 65%;
     height: auto;
+    float: right;
   }
 
   img#contact-info {
     height: auto;
-    width: 34%;
+    width: 65%;
     z-index: 6;
+    float: left;
   }
 
   .insta {
     position: absolute;
-    left: 70%;
-    top: 50%;
+    left: 45%;
+    top: 65%;
     opacity: 0.6;
+  }
+
+  #insta{
+    width: 30%;
+    height: auto;
   }
 
 }
