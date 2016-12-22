@@ -70,7 +70,7 @@ a.button {
   outline: none;
   border-radius: 50%;
   color: #c1272d !important;
-  font-size: 23px;
+  font-size: 20px;
   display: block;
   position: absolute;
   left: 15%;
@@ -198,7 +198,7 @@ div.first-line {
   transition: all 0.5s;
 }
 .wrap2.active:before {
-  height: 2000px;
+  height: 2500px;
   width: 2500px;
   border-radius: 50%;
   top: 5%;
@@ -221,7 +221,7 @@ a.button2 {
   outline: none;
   border-radius: 50%;
   color: #c1272d;
-  font-size: 23px;
+  font-size: 20px;
   display: block;
   position: absolute;
   left: 80%;
