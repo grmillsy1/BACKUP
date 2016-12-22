@@ -17,6 +17,12 @@
     z-index: 6;
   }
 
+  .insta {
+    position: absolute;
+    left: 70%;
+    top: 50%;
+    opacity: 0.6;
+  }
 
 }
 

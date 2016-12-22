@@ -342,6 +342,14 @@ img#prices{
   .wrap2 {
     display: none;
   }
+  img#prices{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
 
 }
   @media screen and (max-width : 415px ){
@@ -374,7 +382,7 @@ img#prices{
     }
     ul.footer_list li {
       text-decoration: none;
-      font-size: 15pt;
+      font-size: 12pt;
       list-style: none;
       margin-top: 15%;
     }
