@@ -1,0 +1,319 @@
+@media screen and (min-width : 1000px) {
+
+body {
+  max-width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+img#ceppo-1 {
+  width: 29%;
+  height: auto;
+}
+
+img#ceppo-1a {
+  width: 25%;
+  height: auto;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+img#c-label-1 {
+  width: 20%;
+  height: auto;
+  margin-left: 400px;
+  margin-bottom: 400px;
+}
+
+img#ceppo-2 {
+  width: 29%;
+  height: auto;
+  margin-top: 200px;
+}
+
+.second-addon {
+  margin-top: 400px;
+}
+img#ceppo-2-add {
+  width: 29%;
+  height: auto;
+  margin-top: 600px;
+  margin-left: 450px;
+}
+
+img#ceppo-3 {
+  width: 26%;
+  height: auto;
+  margin-top: 200px;
+  margin-left: 245px;
+  margin-right: 90px;
+}
+
+img#ceppo-3b {
+  width: 21%;
+  height: auto;
+  margin-bottom: 30px;
+}
+img#c-label-2 {
+  width: 20%;
+  height: auto;
+  margin-bottom: 400px;
+}
+
+img#ceppo-4a {
+  width: 21%;
+  height: auto;
+  margin-top: 400px;
+  margin-left: 330px;
+}
+
+img#ceppo-5 {
+  width: 33%;
+  height: auto;
+  margin-top: 200px;
+  margin-left: -500px;
+}
+
+img#ceppo-6 {
+  width: 32%;
+  height: auto;
+  margin-top: 200px;
+}
+
+img#ceppo-7a {
+  width: 30%;
+  height: auto;
+  margin-top: 200px;
+  margin-right: 20px;
+}
+
+img#ceppo-7b {
+  width: 28.4%;
+  height: auto;
+}
+
+img#ceppo-8 {
+  width: 32%;
+  height: auto;
+  margin-top: 300px;
+  margin-left: 350px;
+  margin-bottom: 150px;
+}
+img#prices{
+  width: 20%;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  margin-bottom: 50px;
+}
+
+
+}
+@media screen and (min-width : 415px) and (max-width : 1000px) {
+
+body {
+  width: 100%;
+  position: relative;
+}
+  .wrapper1 {
+    padding-left: 0;
+  }
+
+  img#ceppo-1 {
+    width: 50%;
+    height: auto;
+  }
+  img#ceppo-1a {
+    width: 40%;
+    height: auto;
+  }
+  img#c-label-1 {
+    height: auto;
+    width: 50%;
+    margin-bottom: 400px;
+  }
+
+  img#ceppo-2 {
+    width: 45%;
+    height: auto;
+    margin-top: 200px;
+  }
+
+  img#ceppo-2-add {
+    width: 50%;
+    height: auto;
+    margin-top: 200px;
+  }
+  img#ceppo-3 {
+    width: 40%;
+    height: auto;
+    margin-top: 200px;
+    margin-left: 10%;
+  }
+  img#ceppo-3b {
+    width: 40%;
+    height: auto;
+  }
+
+  img#c-label-2{
+    width: 50%;
+    margin-top: 200px;
+  }
+
+  img#ceppo-4a{
+    width: 50%;
+    height: auto;
+  }
+
+  img#ceppo-5 {
+    width: 60%;
+    height: auto;
+    margin-top: 200px;
+    margin-left: 10%;
+  }
+
+  img#ceppo-6 {
+    width: 60%;
+    height: auto;
+    margin-top: 200px;
+
+  }
+  img#ceppo-7a {
+    width: 40%;
+    height: auto;
+    margin-top: 200px;
+  }
+  img#ceppo-7b {
+    width: 40%;
+    height: auto;
+    margin-top: 200px;
+  }
+  img#ceppo-8 {
+    width: 80%;
+    height: auto;
+    margin-top: 200px;
+    margin-left: 10%;
+  }
+
+
+}
+
+@media screen and (max-width : 415px) {
+  body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: auto;
+  }
+
+  img#ceppo-1 {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  img#ceppo-1a {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+  }
+  img#c-label-1 {
+    height: auto;
+    width: 50%;
+    margin-top: 100px;
+  }
+
+  img#ceppo-2 {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  img#ceppo-2-add {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+  }
+  img#ceppo-3 {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+  }
+  img#ceppo-3b {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+  }
+
+
+  img#c-label-2{
+    width: 50%;
+    margin-top: 100px;
+  }
+
+    img#ceppo-4a{
+      width: 70%;
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+  img#ceppo-5 {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+  }
+
+  img#ceppo-6 {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+
+  }
+  img#ceppo-7a {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+  }
+  img#ceppo-7b {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+  }
+  img#ceppo-8 {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+  }
+}
