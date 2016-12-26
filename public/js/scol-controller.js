@@ -23,7 +23,7 @@ if ($( window ).width() >= 1024) {
       .addTo(controller);
 
       var fourACeppoTween = TweenMax.to('#scolpire-4a', 1, {
-        transform: 'translate3d(-550px, 0, 0)'
+        transform: 'translate3d(-600px, 0, 0)'
       })
       var fourACeppoSceneTween = new ScrollMagic.Scene({
         triggerElement: '#sept-4th-line',
@@ -36,7 +36,7 @@ if ($( window ).width() >= 1024) {
         .addTo(controller);
 
       var fourBCeppoTween = TweenMax.to('#scolpire-4b', 1, {
-        transform: 'translate3d(0, -550px, 0)'
+        transform: 'translate3d(0, -100vh, 0)'
       })
       var fourBCeppoSceneTween = new ScrollMagic.Scene({
         triggerElement: '#sept-4th-line',
@@ -58,7 +58,7 @@ if ($( window ).width() >= 1024) {
       //.addIndicators()
       .addTo(controller);
         var fiveACeppoTween = TweenMax.to('#scolpire-5a', 1, {
-          transform: 'translate3d(1100px, 0, 0)'
+          transform: 'translate3d(1250px, 0, 0)'
         })
         var fiveACeppoSceneTween = new ScrollMagic.Scene({
           triggerElement: '#sept-5th-line',
@@ -70,7 +70,7 @@ if ($( window ).width() >= 1024) {
           //.addIndicators()
           .addTo(controller);
           var fiveBCeppoTween = TweenMax.to('#scolpire-5b', 1, {
-            transform: 'translate3d(-1000px, 0, 0)'
+            transform: 'translate3d(-1100px, 0, 0)'
           })
           var fiveBCeppoSceneTween = new ScrollMagic.Scene({
             triggerElement: '#sept-5th-line',
