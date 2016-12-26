@@ -6,12 +6,14 @@ img#lin-1 {
 img#lin-2a {
   width: 26%;
   height: auto;
+  max-width: 330px;
   margin-top: 250px;
   margin-right: 20px;
 }
 img#lin-2b {
   width: 26%;
   height: auto;
+  max-width: 330px;
   margin-bottom: 50px;
 }
 

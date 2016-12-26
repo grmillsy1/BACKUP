@@ -15,7 +15,7 @@ if ($( window ).width() >= 1024) {
     .addTo(controller);
 
     var firstLineaTween = TweenMax.to('#lin-2b', 1, {
-      transform: 'translate3d(-900px, 0, 0)'
+      transform: 'translate3d(-1000px, 0, 0)'
     })
     var firstScene = new ScrollMagic.Scene({
       triggerElement: '#lin-2nd-line',
@@ -28,7 +28,7 @@ if ($( window ).width() >= 1024) {
       .addTo(controller);
 
     var firstLineaTween2 = TweenMax.to('#lin-2a', 1, {
-      transform: 'translate3d(1200px, 0, 0)'
+      transform: 'translate3d(1300px, 0, 0)'
     })
     var firstScene2 = new ScrollMagic.Scene({
       triggerElement: '#lin-2nd-line',
@@ -64,7 +64,7 @@ if ($( window ).width() >= 1024) {
 
 
     var sixBLineaTween = TweenMax.to('#lin-6b', 1, {
-      transform: 'translate3d(-1200px, 0, 0)'
+      transform: 'translate3d(-1350px, 0, 0)'
     })
     var fourthScene = new ScrollMagic.Scene({
       triggerElement: '#lin-6th-line',
@@ -110,7 +110,7 @@ if ($( window ).width() >= 1024) {
       .addTo(controller);
 
     var nineALineaTween = TweenMax.to('#lin-9a', 1, {
-      transform: 'translate3d(800px, -400px, 0)'
+      transform: 'translate3d(900px, -500px, 0)'
     })
     var sixthSceneTween = new ScrollMagic.Scene({
       triggerElement: '#lin-9th-line',
@@ -123,7 +123,7 @@ if ($( window ).width() >= 1024) {
       .addTo(controller);
 
     var nineBLineaTween = TweenMax.to('#lin-9b', 1, {
-      transform: 'translate3d(-1200px, 400px, 0)'
+      transform: 'translate3d(-1250px, 400px, 0)'
     })
     var sixthSceneTweenB = new ScrollMagic.Scene({
       triggerElement: '#lin-9th-line',
@@ -159,7 +159,7 @@ if ($( window ).width() >= 1024) {
       .addTo(controller);
 
     var twelveBLineaTween = TweenMax.to('#lin-12b', 1, {
-      transform: 'translate3d(-1000px, 0, 0)'
+      transform: 'translate3d(-1100px, 0, 0)'
     })
     var twelveBSceneTween = new ScrollMagic.Scene({
       triggerElement: '#lin-12th-line',
