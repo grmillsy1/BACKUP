@@ -1,2 +1,2 @@
 ##Website for Grace Prince##
-Animated using scrollMagic 
+graceprince.com
