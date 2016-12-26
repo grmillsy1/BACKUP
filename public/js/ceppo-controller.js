@@ -15,7 +15,7 @@ if ($( window ).width() >= 1024) {
       // .addIndicators()
       .addTo(controller);
     var twoCeppoTween = TweenMax.to('#ceppo-2', 3, {
-      transform: 'translate3d(650px, 0, 0)'
+      transform: 'translate3d(850px, 0, 0)'
     })
     var twoCeppoSceneTween = new ScrollMagic.Scene({
       triggerElement: '#second-line',
@@ -37,7 +37,7 @@ if ($( window ).width() >= 1024) {
       .addTo(controller);
 
     var threeBCeppoTween = TweenMax.to('#ceppo-3b', 1, {
-      transform: 'translate3d(0, -600px, 0)'
+      transform: 'translate3d(0, -700px, 0)'
     })
     var threeACeppoSceneTween = new ScrollMagic.Scene({
       triggerElement: '#third-line',
@@ -60,7 +60,7 @@ if ($( window ).width() >= 1024) {
       .addTo(controller);
 
     var fiveCeppoTween = TweenMax.to('#ceppo-5', 1, {
-      transform: 'translate3d(740px, 0, 0)'
+      transform: 'translate3d(900px, 0, 0)'
     })
     var fiveCeppoSceneTween = new ScrollMagic.Scene({
       triggerElement: '#fith-line',
