@@ -87,6 +87,20 @@ a.button.active {
   transition: transform 0.5s;
 }
 
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
 @media screen and (min-width : 1000px) {
 .index_page{
   width: 65%;
@@ -386,7 +400,7 @@ img#prices{
       list-style: none;
       margin-top: 15%;
     }
-    .main_picture {
+    .video-responsive {
       display: none;
     }
     a:visited, a:link, a:active {
